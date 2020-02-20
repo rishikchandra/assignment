@@ -1,0 +1,14 @@
+.first{
+    text-align: center;
+    border-style: solid;
+    border-color: red;
+    padding: 2px;
+    height: 600px;
+    font-weight:bold;
+    
+}
+
+h1{
+    text-align:center;
+    color:darkblue;
+}

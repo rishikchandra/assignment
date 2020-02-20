@@ -1,0 +1,11 @@
+.mainl{
+    display:flex;
+    float:left;
+    padding: 1%;
+}
+
+.main2{
+    display:flex;
+    float:right;
+    padding: 1%;
+}
